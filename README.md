@@ -14,21 +14,21 @@ command as algorithm name. For Spyder we use this.
 
 Format: runfile('Path', args='input_file  search_algorithm_name')
 
-Example: runfile('.../Programming_Assignment_1_Part2.py', args='map1.txt BFS')
-Example: runfile('.../Programming_Assignment_1_Part2.py', args='map1.txt IDS')
-Example: runfile('.../Programming_Assignment_1_Part2.py', args='map1.txt A*')
+Example: runfile('.../Programming_Assignment_1_Part2.py', args='map1.txt BFS') <br />
+Example: runfile('.../Programming_Assignment_1_Part2.py', args='map1.txt IDS') <br />
+Example: runfile('.../Programming_Assignment_1_Part2.py', args='map1.txt A*') <br />
 
 
 # Run Executable: 
 To run our executable form any computer, just make sure that executable and input map text file are in same folder.
 
-Format : Executable_name.exe input_file  search_algorithm_name
+Format : Executable_name.exe input_file  search_algorithm_name <br />
 
-Example : Programming_Assignment_1_Part2.exe map1.txt BFS
-Example : Programming_Assignment_1_Part2.exe map1.txt IDS
-Example : Programming_Assignment_1_Part2.exe map1.txt A*
-Example : Programming_Assignment_1_Part2.exe map5.txt BFS
-Example : Programming_Assignment_1_Part2.exe map5.txt IDS
-Example : Programming_Assignment_1_Part2.exe map5.txt A*
+Example : Programming_Assignment_1_Part2.exe map1.txt BFS <br />
+Example : Programming_Assignment_1_Part2.exe map1.txt IDS <br />
+Example : Programming_Assignment_1_Part2.exe map1.txt A* <br />
+Example : Programming_Assignment_1_Part2.exe map5.txt BFS <br />
+Example : Programming_Assignment_1_Part2.exe map5.txt IDS <br />
+Example : Programming_Assignment_1_Part2.exe map5.txt A* <br />
 
 
